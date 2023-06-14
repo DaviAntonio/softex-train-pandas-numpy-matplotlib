@@ -1,0 +1,5 @@
+# Generated images
+*.png
+
+# Vim swap
+*.swp
